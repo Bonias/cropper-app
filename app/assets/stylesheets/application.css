@@ -11,5 +11,13 @@
  * file per style scope.
  *
  *= require_tree .
+ *= require cropper
  *= require_self
  */
+
+.cropper-image-container {
+    height: 400px;
+}
+.cropper-image-container img {
+    max-width: 100%;
+}
