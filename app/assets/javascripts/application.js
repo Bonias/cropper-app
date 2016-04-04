@@ -15,4 +15,5 @@
 //= require turbolinks
 //= require cropper
 //= require load-image
+//= require canvas-to-blob
 //= require_tree .
